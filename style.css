@@ -1,0 +1,39 @@
+body{
+    text-align: center;
+    
+    
+}
+h1{
+    font-size: 40ox;
+    font-family: fantasy;
+    font-weight: 300;
+}
+#App lab{
+    width: 100%;
+    height: 800px;
+    background-color:floralwhite;
+}
+#Game lab{
+    width: 100%;
+    height: 800px;
+    background-color: aliceblue;
+}
+#Chatbot{
+    width: 100%;
+    height: 800px;
+    background-color:azure;
+}
+img {
+    transition: transform .2s;
+    
+}
+img:hover{
+    transform: scale(0.9);
+    
+}
+.line{
+    height: 6px;
+    background-color: #000;
+    width: 70px;
+    margin: 8px auto;
+}
